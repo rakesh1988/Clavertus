@@ -28,10 +28,10 @@ object Constants {
     const val KEY_LENGTH = 32
     const val TUNNEL_ID_LENGTH = 16
     const val PSK_LENGTH = 32
-    const val TUNNEL_IDENTIFIER_SHORT: Short = -13223
+    const val TUNNEL_IDENTIFIER_SHORT: Short = -25169
     const val PURPOSE_BYTES_LENGTH = 4
     const val BLE_UUID = "0000fff9-0000-1000-8000-00805f9b34fb"
-    const val SOCKET_URL = "wss://cable.i6khud6i7qci.com/"
+    const val SOCKET_URL = "wss://cable.c3ct5pfddubs.com/"
     const val SOCKET_PATH_CONNECT = "cable/connect/"
     const val SOCKET_PATH_CONTACT = "cable/contact/"
     const val LINK_ID_LENGTH = 8
